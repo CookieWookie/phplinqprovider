@@ -1,4 +1,4 @@
-﻿{
+{
     "name": "netbizsolutions/linq",
     "description": "Simple LINQ provider for PHP.",
     "require": { 
