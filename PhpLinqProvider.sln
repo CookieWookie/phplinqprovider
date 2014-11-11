@@ -5,6 +5,11 @@ VisualStudioVersion = 12.0.30723.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{A0786B88-2ADB-4C21-ABE8-AA2D79766269}") = "PhpLinqProvider", "PhpLinqProvider\PhpLinqProvider.phpproj", "{49CE02B3-8379-4241-8E7E-A808554F3530}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B45D07C9-C9DA-4044-AB9E-98FD2A296C74}"
+	ProjectSection(SolutionItems) = preProject
+		composer.json = composer.json
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

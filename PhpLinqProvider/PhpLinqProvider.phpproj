@@ -36,7 +36,4 @@
     <Compile Include="TakeWhileIterator.php" />
     <Compile Include="WhereIterator.php" />
   </ItemGroup>
-  <ItemGroup>
-    <Content Include="composer.json" />
-  </ItemGroup>
 </Project>
