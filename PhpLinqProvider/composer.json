@@ -1,0 +1,7 @@
+﻿{
+    "name": "netbizsolutions/linq",
+    "description": "Simple LINQ provider for PHP.",
+    "require": { 
+        "php": ">=5.5.0"
+    }
+}
